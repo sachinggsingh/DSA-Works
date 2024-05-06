@@ -1,1 +1,1 @@
-# casual-work
+casual works of c/c++ and python
