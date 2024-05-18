@@ -1,4 +1,4 @@
-/*Finding the pair with sum K (a+b = k)   (METHOD - 1)*/
+/*Finding the pair with sum K (a+b = k) of unsorted Array  (METHOD - 1)*/
 #include<iostream>
 using namespace std;
 int main()
@@ -18,7 +18,7 @@ int main()
     return 0;
 }
 
-/*Finding the pair with Sum K (METHOD - 2) #Hashing*/
+/*Finding the pair with Sum K of unsorted Array (METHOD - 2) #Hashing*/
 #include<iostream>
 using namespace std;
 int main()
