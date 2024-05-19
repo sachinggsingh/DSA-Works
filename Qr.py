@@ -1,3 +1,3 @@
 import qrcode
-img = qrcode.make("https://www.google.com/")
-img.save("googleQR.jpg")
+img = qrcode.make("https://www.google.com/")#Enter the url#
+img.save("googleQR.jpg") #store that images#
