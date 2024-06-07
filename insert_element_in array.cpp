@@ -4,7 +4,7 @@ void insert(int arr[], int size,int index,int value)
 {
     for(int i = size;i<index;--i)
     {
-        arr[i] = arr[i-1];
+        arr[i] = arr[i-1];       //responsible for shifting the elements to the right ater inserting the element
     }
     arr[index] = value;
 }
